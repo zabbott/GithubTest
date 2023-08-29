@@ -8,7 +8,7 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
     public string Message; 
     void Start()
     {
-        print(Message);
+        print("Garbage hard coded text");
     }
 
     // Update is called once per frame
