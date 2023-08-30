@@ -9,6 +9,7 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
     void Start()
     {
         Debug.Log("Test debug");
+
         print("I exist only to cause merge conflicts and chaos" + Message);
     }
 
