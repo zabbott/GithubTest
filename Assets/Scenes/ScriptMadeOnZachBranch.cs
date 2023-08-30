@@ -63,6 +63,8 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("I have become plastic, life is fantastic");
 
         print("42: The answer to life, the universe and everything.");
+
+        print("BEST GAME EVER WOOHOO");
     }
  //    /\___/\
 //    | ^   ^ |
@@ -73,11 +75,8 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
 
 
 
-        Debug.Log("I love cheese grommit");
-        print("I love pancakes" + Message);
-        print("TEXTSTUFF");
-        print("What did you do to my scene???");
-    }
+     
+    
 }
     
     //     /\___/\
