@@ -15,7 +15,6 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("have you all seen jamison's cool scene");
         print("Yippee :3" + Message);
         print("My message is the coolest :)" + Message);
-        print("Apple bottom jeans");
 
         print("I exist only to cause merge conflicts and chaos" + Message);
         print("Some excelent text. this text is so great!" + Message);
@@ -61,6 +60,7 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("uhh something something fear and hunger");
         print("I miss my dogs");
         print("I'm hungry");
+        print("I have become plastic, life is fantastic");
     }
  //    /\___/\
 //    | ^   ^ |
