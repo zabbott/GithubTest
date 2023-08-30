@@ -32,7 +32,7 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
 
 
         print("Zachs section 3 code");
-        print("Dude I just farted lmao")
+        print("Dude I just farted lmao");
     }
  //    /\___/\
 //    | ^   ^ |
