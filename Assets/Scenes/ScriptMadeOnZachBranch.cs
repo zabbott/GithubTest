@@ -9,6 +9,9 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
     void Start()
     {
         Debug.Log("Test debug");
+
+        print("I exist only to cause merge conflicts and chaos" + Message);
+        print("Some excelent text. this text is so great!" + Message);
         print("Do{} While(); more like Do{} Wild();" + Message);
         print("Hey this is NOT even better than charlies text");
         print("Some excelent AGAIN text. this text is so great!" + Message);
