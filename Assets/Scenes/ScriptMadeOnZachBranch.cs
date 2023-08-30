@@ -57,6 +57,8 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
 
         print("Gabe is not funny");
         print("uhh something something fear and hunger");
+        print("I miss my dogs");
+        print("I'm hungry");
     }
  //    /\___/\
 //    | ^   ^ |
