@@ -9,6 +9,8 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
     void Start()
     {
         Debug.Log("Test debug");
+        print("Some excelent text. this text is so great!" + Message);
+        print("Hey this is even better than charlies text");
         print("What did you do to my scene???");
     }
 
