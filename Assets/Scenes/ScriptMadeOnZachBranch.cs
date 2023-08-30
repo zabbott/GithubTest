@@ -34,6 +34,8 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
 
 
         print("Zachs section 3 code");
+
+        print("I miss my dogs");
     }
  //    /\___/\
 //    | ^   ^ |
