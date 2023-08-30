@@ -29,6 +29,11 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("I love pancakes" + Message);
         print("TEXTSTUFF");
         print("What did you do to my scene???");
+
+        print("You — are not the guy.");
+        print("You will never be the guy.");
+
+        print("I AM THE ONE WHO KNOCKS");
     }
  //    /\___/\
 //    | ^   ^ |
