@@ -62,6 +62,8 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("I'm hungry");
         print("I have become plastic, life is fantastic");
 
+        print("42: The answer to life, the universe and everything.");
+
         print("BEST GAME EVER WOOHOO");
     }
  //    /\___/\
