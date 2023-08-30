@@ -44,6 +44,7 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
 
         print("Zachs section 3 code");
         print("HIIIII");
+        print("Live and Learn!");
     }
  //    /\___/\
 //    | ^   ^ |
@@ -62,4 +63,4 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         }
     }
 
-}
+
