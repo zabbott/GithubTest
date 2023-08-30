@@ -5,9 +5,10 @@ using UnityEngine;
 public class ScriptMadeOnZachBranch : MonoBehaviour
 {
     // Start is called before the first frame update
-    public string Message; 
+    public string Message;
     void Start()
     {
+
         Debug.Log("Test debug");
         print("This is the text of all time.");
         print("https://youtu.be/k85mRPqvMbE?si=yb_pXQ19S2F0aRrO");
@@ -31,6 +32,11 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("TEXTSTUFF");
         print("What did you do to my scene???");
 
+        print("You — are not the guy.");
+        print("You will never be the guy.");
+
+        print("I AM THE ONE WHO KNOCKS");
+
         print("hey this is a cool second change");
 
 
@@ -39,6 +45,18 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("I miss my dogs");
         print("HIIIII");
         print("Live and Learn!");
+        print("ur mom");
+        print("Street fighting in the street");
+
+        //    /\___/\
+        //    | ^   ^ |
+        // =\   w   /=
+        //   /       \     ___
+        // |        |___/ __|
+        //  |__|__|__|____/
+
+        print("Gabe is not funny");
+        print("uhh something something fear and hunger");
         print("I miss my dogs");
         print("I'm hungry");
     }
@@ -49,12 +67,60 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
    // |        |___/ __|
   //  |__|__|__|____/
 
-  
-      
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+
+        Debug.Log("I love cheese grommit");
+        print("I love pancakes" + Message);
+        print("TEXTSTUFF");
+        print("What did you do to my scene???");
     }
 }
+    
+    //     /\___/\
+    //    | >   < |
+    //   = \  o  /=
+    //    /       \      /\
+    //    \        |____/ /
+    //    {__{_{_{__|____/
+
+
+/* 
+  _________________________
+ /                       /|
+ [|][|][|][|][|][|][|][|] | 
+ [|][|][|][|][|][|][|][|] |
+ [|]      [|][|]      [|] |
+ [|]      [|][|]      [|] |
+ [|][|][|]      [|][|][|] |
+ [|][|]            [|][|] |
+ [|][|]            [|][|] |
+ [|][|]   [|][|]   [|][|] |
+ [|][|][|][|][|][|][|][|] |
+ [|][|][|][|][|][|][|][|]/'
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+ [|][|][|]      [|][|][|]
+ [|][|][|]      [|][|][|]
+ [|][|][|]      [|][|][|]
+ [|][|][|]      [|][|][|]
+ [|][|][|]      [|][|][|]
+    
+
+
+
+
+*/
