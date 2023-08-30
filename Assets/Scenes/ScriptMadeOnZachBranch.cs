@@ -12,6 +12,15 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("I like to draw cats =^w^=" + Message);
         print("Hey this is even better than charlies text");
     }
+ //    /\___/\
+//    | o   o |
+  // =\   w   /=
+ //   /       \     ___
+   // |        |___/ __|
+  //  |__|__|__|____/
+
+  
+      
 
     // Update is called once per frame
     void Update()
