@@ -29,6 +29,7 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("I love pancakes" + Message);
         print("TEXTSTUFF");
         print("What did you do to my scene???");
+        print("Street fighting in the street");
     }
  //    /\___/\
 //    | ^   ^ |
