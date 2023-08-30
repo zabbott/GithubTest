@@ -29,6 +29,9 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("I love pancakes" + Message);
         print("TEXTSTUFF");
         print("What did you do to my scene???");
+
+
+        print("Zachs section 3 code");
     }
  //    /\___/\
 //    | ^   ^ |
