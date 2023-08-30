@@ -17,6 +17,7 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
 
         print("I exist only to cause merge conflicts and chaos" + Message);
         print("Some excelent text. this text is so great!" + Message);
+        print("I like to draw cats =^w^=" + Message);
         print("Do{} While(); more like Do{} Wild();" + Message);
         print("Hey this is NOT even better than charlies text");
         print("Some excelent AGAIN text. this text is so great!" + Message);
@@ -29,6 +30,15 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("TEXTSTUFF");
         print("What did you do to my scene???");
     }
+ //    /\___/\
+//    | ^   ^ |
+  // =\   w   /=
+ //   /       \     ___
+   // |        |___/ __|
+  //  |__|__|__|____/
+
+  
+      
 
     // Update is called once per frame
     void Update()
