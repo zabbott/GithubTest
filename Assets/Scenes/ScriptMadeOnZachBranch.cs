@@ -10,6 +10,8 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
     {
         Debug.Log("Test debug");
         print("https://youtu.be/k85mRPqvMbE?si=yb_pXQ19S2F0aRrO");
+        print("Some excelent text. this text is so great!" + Message);
+        print("Hey this is even better than charlies text");
     }
 
     // Update is called once per frame
