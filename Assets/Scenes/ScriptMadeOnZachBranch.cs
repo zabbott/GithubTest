@@ -5,7 +5,7 @@ using UnityEngine;
 public class ScriptMadeOnZachBranch : MonoBehaviour
 {
     // Start is called before the first frame update
-    public string Message; 
+    public string Message;
     void Start()
     {
         Debug.Log("Test debug");
@@ -29,20 +29,23 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("I love pancakes" + Message);
         print("TEXTSTUFF");
         print("What did you do to my scene???");
-    }
- //    /\___/\
-//    | ^   ^ |
-  // =\   w   /=
- //   /       \     ___
-   // |        |___/ __|
-  //  |__|__|__|____/
+        print("jjjjjjjjj");
 
-  
-      
+        //    /\___/\
+        //    | ^   ^ |
+        // =\   w   /=
+        //   /       \     ___
+        // |        |___/ __|
+        //  |__|__|__|____/
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+
+
+
+        // Update is called once per frame
+        void Update()
+        {
+
+        }
     }
+
 }
