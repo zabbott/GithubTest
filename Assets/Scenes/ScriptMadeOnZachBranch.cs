@@ -13,7 +13,7 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("Hey this is even better than charlies text");
     }
  //    /\___/\
-//    | o   o |
+//    | ^   ^ |
   // =\   w   /=
  //   /       \     ___
    // |        |___/ __|
