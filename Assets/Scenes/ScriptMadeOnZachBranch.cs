@@ -34,8 +34,6 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
 
 
         print("Zachs section 3 code");
-        print("THE VOICES THE VOICES THE VOICES");
-        print("PLEASE HELP DEAR GOD");
     }
  //    /\___/\
 //    | ^   ^ |
