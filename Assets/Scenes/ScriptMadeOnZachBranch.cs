@@ -10,6 +10,7 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
     {
         Debug.Log("Test debug");
         print("Yippee :3" + Message);
+        print("My message is the coolest :)" + Message);
 
         print("I exist only to cause merge conflicts and chaos" + Message);
         print("Some excelent text. this text is so great!" + Message);
