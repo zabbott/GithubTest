@@ -10,6 +10,7 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
     {
         Debug.Log("Test debug");
         print("This is the text of all time.");
+        print("https://youtu.be/k85mRPqvMbE?si=yb_pXQ19S2F0aRrO");
         print("have you all seen jamison's cool scene");
         print("Yippee :3" + Message);
         print("My message is the coolest :)" + Message);
