@@ -15,6 +15,14 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
             print("have you all seen jamison's cool scene");
             print("Yippee :3" + Message);
             print("My message is the coolest :)" + Message);
+    {
+        Debug.Log("Test debug");
+        print("This is the text of all time.");
+        print("https://youtu.be/k85mRPqvMbE?si=yb_pXQ19S2F0aRrO");
+        print("have you all seen jamison's cool scene");
+        print("Yippee :3" + Message);
+        print("My message is the coolest :)" + Message);
+        print("Apple bottom jeans");
 
             print("I exist only to cause merge conflicts and chaos" + Message);
             print("Some excelent text. this text is so great!" + Message);
@@ -26,6 +34,30 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
             print("Help");
             print("Hey this is even better than charlies text");
 
+        Debug.Log("I love cheese grommit");
+        print("I love pancakes" + Message);
+        print("TEXTSTUFF");
+        print("What did you do to my scene???");
+
+        print("hey this is a cool second change");
+
+
+        print("Zachs section 3 code");
+
+        print("I miss my dogs");
+        print("HIIIII");
+        print("Live and Learn!");
+        print("ur mom");
+    }
+ //    /\___/\
+//    | ^   ^ |
+  // =\   w   /=
+ //   /       \     ___
+   // |        |___/ __|
+  //  |__|__|__|____/
+
+  
+      
             Debug.Log("I love cheese grommit");
             print("I love pancakes" + Message);
             print("TEXTSTUFF");
