@@ -18,6 +18,9 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("Hey this is NOT even better than charlies text");
         print("Some excelent AGAIN text. this text is so great!" + Message);
         print("Hey this is even better than charlies text");
+
+        Debug.Log("I love cheese grommit");
+        print("I love pancakes" + Message);
     }
 
     // Update is called once per frame
