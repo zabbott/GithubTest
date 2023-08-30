@@ -5,15 +5,17 @@ using UnityEngine;
 public class ScriptMadeOnZachBranch : MonoBehaviour
 {
     // Start is called before the first frame update
-    public string Message; 
+    public string Message;
     void Start()
     {
+
         Debug.Log("Test debug");
         print("This is the text of all time.");
         print("https://youtu.be/k85mRPqvMbE?si=yb_pXQ19S2F0aRrO");
         print("have you all seen jamison's cool scene");
         print("Yippee :3" + Message);
         print("My message is the coolest :)" + Message);
+        print("Apple bottom jeans");
 
         print("I exist only to cause merge conflicts and chaos" + Message);
         print("Some excelent text. this text is so great!" + Message);
@@ -30,12 +32,35 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("TEXTSTUFF");
         print("What did you do to my scene???");
 
+        print("You — are not the guy.");
+        print("You will never be the guy.");
+
+        print("I AM THE ONE WHO KNOCKS");
+
         Debug.Log("Holy shit, Batman!");
 
         print("hey this is a cool second change");
 
 
         print("Zachs section 3 code");
+
+        print("I miss my dogs");
+        print("HIIIII");
+        print("Live and Learn!");
+        print("ur mom");
+        print("Street fighting in the street");
+
+        //    /\___/\
+        //    | ^   ^ |
+        // =\   w   /=
+        //   /       \     ___
+        // |        |___/ __|
+        //  |__|__|__|____/
+
+        print("Gabe is not funny");
+        print("uhh something something fear and hunger");
+        print("I miss my dogs");
+        print("I'm hungry");
     }
  //    /\___/\
 //    | ^   ^ |
@@ -44,12 +69,60 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
    // |        |___/ __|
   //  |__|__|__|____/
 
-  
-      
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+
+        Debug.Log("I love cheese grommit");
+        print("I love pancakes" + Message);
+        print("TEXTSTUFF");
+        print("What did you do to my scene???");
     }
 }
+    
+    //     /\___/\
+    //    | >   < |
+    //   = \  o  /=
+    //    /       \      /\
+    //    \        |____/ /
+    //    {__{_{_{__|____/
+
+
+/* 
+  _________________________
+ /                       /|
+ [|][|][|][|][|][|][|][|] | 
+ [|][|][|][|][|][|][|][|] |
+ [|]      [|][|]      [|] |
+ [|]      [|][|]      [|] |
+ [|][|][|]      [|][|][|] |
+ [|][|]            [|][|] |
+ [|][|]            [|][|] |
+ [|][|]   [|][|]   [|][|] |
+ [|][|][|][|][|][|][|][|] |
+ [|][|][|][|][|][|][|][|]/'
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+    [|][|][|][|][|][|]
+ [|][|][|]      [|][|][|]
+ [|][|][|]      [|][|][|]
+ [|][|][|]      [|][|][|]
+ [|][|][|]      [|][|][|]
+ [|][|][|]      [|][|][|]
+    
+
+
+
+
+*/
