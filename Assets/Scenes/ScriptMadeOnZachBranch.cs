@@ -10,6 +10,7 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
     {
         Debug.Log("Test debug");
         print("Some excelent text. this text is so great!" + Message);
+        print("Hey this is even better than charlies text");
     }
 
     // Update is called once per frame
