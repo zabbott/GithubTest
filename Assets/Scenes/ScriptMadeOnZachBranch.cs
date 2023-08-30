@@ -39,6 +39,7 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("I miss my dogs");
         print("HIIIII");
         print("Live and Learn!");
+        print("I miss my dogs");
     }
  //    /\___/\
 //    | ^   ^ |
