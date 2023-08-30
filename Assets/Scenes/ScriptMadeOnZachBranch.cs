@@ -38,6 +38,18 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         // |        |___/ __|
         //  |__|__|__|____/
 
+        print("hey this is a cool second change");
+
+
+        print("Zachs section 3 code");
+    }
+ //    /\___/\
+//    | ^   ^ |
+  // =\   w   /=
+ //   /       \     ___
+   // |        |___/ __|
+  //  |__|__|__|____/
+
 
 
 
