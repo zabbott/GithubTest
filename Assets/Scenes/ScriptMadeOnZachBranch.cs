@@ -31,6 +31,11 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("What did you do to my scene???");
 
         Debug.Log("Holy shit, Batman!");
+
+        print("hey this is a cool second change");
+
+
+        print("Zachs section 3 code");
     }
  //    /\___/\
 //    | ^   ^ |
