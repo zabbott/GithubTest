@@ -23,6 +23,7 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         Debug.Log("I love cheese grommit");
         print("I love pancakes" + Message);
         print("TEXTSTUFF");
+        print("What did you do to my scene???");
     }
 
     // Update is called once per frame
