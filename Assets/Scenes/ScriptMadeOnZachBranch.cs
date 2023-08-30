@@ -11,6 +11,8 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         Debug.Log("Test debug");
 
         print("I exist only to cause merge conflicts and chaos" + Message);
+        print("Some excelent text. this text is so great!" + Message);
+        print("Hey this is even better than charlies text");
     }
 
     // Update is called once per frame
