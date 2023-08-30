@@ -39,6 +39,11 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("TEXTSTUFF");
         print("What did you do to my scene???");
 
+        print("You — are not the guy.");
+        print("You will never be the guy.");
+
+        print("I AM THE ONE WHO KNOCKS");
+
         print("hey this is a cool second change");
 
 
