@@ -30,6 +30,8 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("TEXTSTUFF");
         print("What did you do to my scene???");
 
+        print("hey this is a cool second change");
+
 
         print("Zachs section 3 code");
     }
