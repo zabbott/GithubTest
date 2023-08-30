@@ -43,6 +43,7 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
 
 
         print("Zachs section 3 code");
+        print("HIIIII");
     }
  //    /\___/\
 //    | ^   ^ |
