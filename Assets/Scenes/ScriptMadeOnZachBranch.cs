@@ -37,6 +37,8 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
 
         print("I AM THE ONE WHO KNOCKS");
 
+        Debug.Log("Holy shit, Batman!");
+
         print("hey this is a cool second change");
 
 
