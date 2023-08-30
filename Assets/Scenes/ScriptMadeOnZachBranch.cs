@@ -9,7 +9,7 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
     void Start()
     {
         Debug.Log("Test debug");
-        print("Cool text" + Message);
+        print("I exist only to cause merge conflicts and chaos" + Message);
     }
 
     // Update is called once per frame
