@@ -55,6 +55,15 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         // |        |___/ __|
         //  |__|__|__|____/
 
+        print("Gabe is not funny");
+    }
+ //    /\___/\
+//    | ^   ^ |
+  // =\   w   /=
+ //   /       \     ___
+   // |        |___/ __|
+  //  |__|__|__|____/
+
 
 
         Debug.Log("I love cheese grommit");
