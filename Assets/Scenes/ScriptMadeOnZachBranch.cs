@@ -29,6 +29,8 @@ public class ScriptMadeOnZachBranch : MonoBehaviour
         print("I love pancakes" + Message);
         print("TEXTSTUFF");
         print("What did you do to my scene???");
+
+        Debug.Log("Holy shit, Batman!");
     }
  //    /\___/\
 //    | ^   ^ |
